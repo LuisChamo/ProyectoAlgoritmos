@@ -10,7 +10,7 @@ int dato4, calculadora, borrar;
 int numero;
        
 	do {
-	System.out.println("\nBienvenidos a mi Proyecto Calculadora\n");        
+	System.out.println("\n *Bienvenidos a mi Proyecto Calculadora* \n");        
 	System.out.println("1: Suma de 2 Numeros");
 	System.out.println("2: Resta de 2 Numeros");
 	System.out.println("3: Multiplicacion de 2 Numeros");
